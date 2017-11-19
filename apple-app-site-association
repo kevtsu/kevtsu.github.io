@@ -1,0 +1,11 @@
+{
+"applinks": {
+"apps": [],
+"details": [
+{
+"appID": "951375734.RestingCranes.PlaceMaker",
+"paths": [ "/app/*" ]
+}
+]
+}
+}
