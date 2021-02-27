@@ -1,6 +1,6 @@
-Name,Address,City and state,Postal code,Phone (optional), Notes (optional), unused
-Trouble Coffee,4033 Judah St,"San Francisco, CA",94122,,"The columns should be in order - name, address, city and state, postal code, and notes",
-Andytown Coffee,"3655 Lawton St, San Francisco, CA 94122",,,"+1.415.555.1212",Anything after the 6th column will be ignored,
-Ballast Coffee,329 W Portal Ave,"San Francisco, CA",94127,,"For free users and up to 25 stops subscribers, only 5 rows can be imported",
-Flywheel Coffee,672 Stanyan St,"San Francisco, CA",94117,,Up to 150 and over 150 stops subscribers can import lists of any length.,
-Ritual Roasters,1300 Haight St,"San Francisco, CA",94117,,,
+name,address,notes,phonenumber,website,hours,relevance
+Trouble Coffee,"4033 Judah St, San Francisco, CA 94122, United States","The only required column is address",,,,1
+Andytown Coffee,"3655 Lawton St, San Francisco, CA 94122, United States",,+1.415.555.1212,,,1
+Ballast Coffee,"329 W Portal Ave, San Francisco, CA 94127, United States","For free users and up to 25 stops subscribers, only 5 rows can be imported",,,,1
+Flywheel Coffee,"672 Stanyan St, San Francisco, CA 94117, United States",Up to 150 and over 150 stops subscribers can import lists of any length.,,,,1
+Ritual Roasters,"1300 Haight St, San Francisco, CA 94117, United States",,,,,1
